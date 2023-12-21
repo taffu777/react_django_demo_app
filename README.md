@@ -1,3 +1,3 @@
 # react_django_demo_app
 A demo app for React and Django Deployment
-Best Of Luck
+BEST OF LUCK
